@@ -71,4 +71,4 @@ match escolha:
         print('Jogadores com a mesma mão resulta em empate.\n')
         print('Pedra quebra Tesoura; Papel embrulha Pedra; Tesoura corta Papel.\n')
     case 5:
-        print('Bye Bye')
+        print('Thank You! Bye Bye')
